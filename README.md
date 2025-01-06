@@ -54,10 +54,5 @@ The analysis is based on e-commerce transaction data, such as:
 - Analyze delivery times and their impact on customer satisfaction.
 - Study the influence of product descriptions and imagery on sales.
 
-
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 Special thanks to the [Brazilian E-Commerce Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce) for providing the data for this analysis.
